@@ -39,3 +39,9 @@
     width: 200px;
     height: 300px;
 }
+
+.sinopsis {
+    max-width: 300px;
+    overflow-y: auto;
+    white-space: pre-wrap;
+}
